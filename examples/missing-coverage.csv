@@ -1,0 +1,6 @@
+reference_id,reference_mm,zone,reading_mm
+A10,10,center,9.99
+A10,10,center,10.01
+A10,10,edge,10.12
+B30,30,edge,30.20
+B30,30,edge,30.22
